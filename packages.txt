@@ -1,0 +1,8 @@
+gdal-bin
+libgdal-dev
+libgeos-dev
+libproj-dev
+python3-gdal
+libodbc2
+unixodbc-common
+libodbcinst2
