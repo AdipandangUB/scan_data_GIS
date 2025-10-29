@@ -9,7 +9,10 @@ import geopandas as gpd
 import pandas as pd
 
 # === [GDAL CONTEXT ADDED] ===
-from osgeo import gdal, ogr, osr
+import rasterio
+from rasterio import features
+import geopandas as gpd
+
 
 # ------------------------------
 # KONFIGURASI HALAMAN
