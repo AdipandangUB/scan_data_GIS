@@ -7,3 +7,4 @@ fiona>=1.9
 pyproj>=3.6
 pandas>=2.2
 numpy>=1.26
+gdal==3.6.2
